@@ -1,0 +1,1 @@
+# Projeto-Aplicado-2-An-lise-de-sentimentos-em-avalia-es-de-consumidores-da-Sephora
